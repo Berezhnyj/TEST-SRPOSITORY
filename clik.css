@@ -1,0 +1,17 @@
+.b {
+   height: 2em;
+    text-align: center;
+    font-size: 40pt;
+    width: 25%;
+     background: blue;
+    
+    top: 4em;
+     position: relative;
+    left: 35%;
+     
+   }
+
+   div:hover { background: red;
+color:deepskyblue;
+}
+ 
